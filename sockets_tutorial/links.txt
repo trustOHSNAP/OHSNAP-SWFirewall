@@ -1,0 +1,4 @@
+https://docs.freebsd.org/en/books/developers-handbook/sockets/
+
+# Has example how to become a daemon using fork() in the server example:
+https://docs.freebsd.org/en/books/developers-handbook/sockets/#sockets-essential-functions
